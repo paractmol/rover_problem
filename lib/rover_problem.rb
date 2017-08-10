@@ -1,5 +1,5 @@
 class RoverProblem
-  DIRECTIONS = %w(N E S W).freeze!
+  DIRECTIONS = %w(N E S W).freeze
 
   attr_reader :face, :x, :y
 
