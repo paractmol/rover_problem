@@ -8,3 +8,5 @@ In order to execute tests run the following command:
 ```
 ruby test/test_rover_problem.rb
 ```
+
+[The full article available here](https://theoryofe.co/2017/08/10/another-mars-rover-solution/)
